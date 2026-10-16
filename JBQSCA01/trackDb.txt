@@ -1,0 +1,5 @@
+track assembly
+longLabel Assembly contig layout for 499 Bins
+shortLabel Assembly
+type baseColorByFishWig
+visibility pack
