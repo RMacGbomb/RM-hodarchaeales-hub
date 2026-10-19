@@ -1,6 +1,17 @@
 hub HodarchaealesHub
 shortLabel Hodarchaeales JBQSCA
 longLabel Candidatus Hodarchaeales archaeon JBQSCA01.1 (499 Bins)
-genomesFile genomes.txt
 useOneFile on
 email your_email@domain.com
+
+genome JBQSCA01
+organism Candidatus Hodarchaeales archaeon
+scientificName Candidatus Hodarchaeales archaeon
+defaultPos _bin_JBQSCA01:1-1000
+
+track assembly
+longLabel Assembly contig layout for 499 Bins
+shortLabel Assembly
+type bigBed
+visibility pack
+bigDataUrl JBQSCA01/assembled_genome.2bit
