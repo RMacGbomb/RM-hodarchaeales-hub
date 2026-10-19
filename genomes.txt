@@ -1,10 +1,6 @@
 genome jbqsca01
-trackDb JBQSCA01/trackDb.txt
-twoBitPath JBQSCA01/assembled_genome.2bit
+trackDb https://github.com
+twoBitPath https://github.com
 organism Candidatus Hodarchaeales archaeon
-defaultPos _bin_JBQSCA01:1-1000
 scientificName Candidatus Hodarchaeales archaeon
-htmlPath JBQSCA01/description.html
-
-genome dummyGenome
-trackDb JBQSCA01/trackDb.txt
+htmlPath https://github.com
