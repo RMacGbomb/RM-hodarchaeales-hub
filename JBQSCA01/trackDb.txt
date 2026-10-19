@@ -1,5 +1,6 @@
 track assembly
 longLabel Assembly contig layout for 499 Bins
 shortLabel Assembly
-type baseColorByFishWig
+type bigBed
 visibility pack
+bigDataUrl assembled_genome.2bit
