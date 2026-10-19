@@ -5,3 +5,6 @@ organism Candidatus Hodarchaeales archaeon
 defaultPos _bin_JBQSCA01:1-1000
 scientificName Candidatus Hodarchaeales archaeon
 htmlPath JBQSCA01/description.html
+
+genome dummyGenome
+trackDb JBQSCA01/trackDb.txt
