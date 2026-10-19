@@ -1,4 +1,4 @@
-enome JBQSCA01
+genome JBQSCA01
 trackDb https://github.com
 twoBitPath https://github.com
 organism Candidatus Hodarchaeales archaeon
