@@ -1,5 +1,5 @@
 hub HodarchaealesHub
 shortLabel Hodarchaeales JBQSCA
 longLabel Candidatus Hodarchaeales archaeon JBQSCA01.1 (499 Bins)
-genomesFile https://github.com
+genomesFile genomes.txt
 email your_email@domain.com
